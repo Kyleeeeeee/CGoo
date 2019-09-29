@@ -1,0 +1,13 @@
+# > Spotify
+HOST-KEYWORD,lihkg,Spotify
+HOST-KEYWORD,spotify,Spotify
+HOST-SUFFIX,apresolve.spotify.com,Spotify
+HOST-SUFFIX,t.scdn.co,Spotify
+HOST-SUFFIX,car-prod.scdn.co,Spotify
+HOST-SUFFIX,dailymix-images.scdn.co,Spotify
+HOST-SUFFIX,thisis-images.scdn.co,Spotify
+HOST-SUFFIX,ulogs.umeng.com,Spotify
+HOST-SUFFIX,ulogs.umengcloud.com,Spotify
+HOST-SUFFIX,sec.umeng.com,Spotify
+HOST-SUFFIX,pl.scdn.co,Spotify
+HOST-SUFFIX,i.scdn.co,Spotify
