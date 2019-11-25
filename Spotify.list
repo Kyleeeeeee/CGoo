@@ -76,10 +76,6 @@ DOMAIN-SUFFIX,xn--ngstr-lra8j.com,Spotify
 DOMAIN-KEYWORD,google,Spotify
 DOMAIN-KEYWORD,blogspot,Spotify
 
-# > Twitch
-DOMAIN-SUFFIX,twitch.tv,Twitch
-DOMAIN-SUFFIX,twitchcdn.net,Twitch
-DOMAIN-SUFFIX,ttvnw.net,Twitch
 
 
 # > nytimes
